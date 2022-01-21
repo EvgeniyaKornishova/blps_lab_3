@@ -35,3 +35,4 @@ build/
 
 ## Bitronix log ##
 *.tlog
+/transaction-logs
